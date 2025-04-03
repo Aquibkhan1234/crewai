@@ -1,7 +1,7 @@
 from crewai import Crew, Agent, Task, LLM
 from crewai_tools import SerperDevTool
 import os
-from dotenv import load_dotenv
+from dotenv import load_dotenv 
 load_dotenv()
 
 
