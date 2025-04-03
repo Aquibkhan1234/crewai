@@ -1,9 +1,10 @@
-title: CrewAI
-emoji: 🐨
-colorFrom: blue
-colorTo: red
-sdk: streamlit
-sdk_version: 1.42.0
+---
+title: {{CrewAI}}
+emoji: {{🐨}}
+colorFrom: {{blue}}
+colorTo: {{red}}
+sdk: {{streamlit}}
+sdk_version: {{1.42.0}}
 app_file: streamlit.py
 pinned: false
 license: apache-2.0
