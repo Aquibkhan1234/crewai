@@ -4,17 +4,13 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-# import litellm
-# litellm.set_verbose = True
+
 
 os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
 os.environ["SERPER_API_KEY"] = os.getenv("SERPER_API_KEY")
 os.environ["GROQ_API_KEY"] = os.getenv("GROQ_API_KEY")
-# os.environ['LITELLM_LOG'] = 'DEBUG'
 
 topic = "AI in Healthcare"
-
-
 llm = LLM(
     model="gemini/gemini-2.0-flash",
     api_key=os.getenv("GOOGLE_API_KEY")
