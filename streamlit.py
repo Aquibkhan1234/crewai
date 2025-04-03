@@ -166,3 +166,6 @@ if generate_button:
 # Footer
 st.markdown("---")
 st.markdown("Built with CrewAI, Streamlit and ChatGPT")
+
+if __name__ == "__main__":
+    main()
