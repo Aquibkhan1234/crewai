@@ -1,3 +1,15 @@
+title: CrewAI
+emoji: 🐨
+colorFrom: blue
+colorTo: red
+sdk: streamlit
+sdk_version: 1.42.0
+app_file: streamlit.py
+pinned: false
+license: apache-2.0
+short_description: refined crewai
+
+
 AI Content Research & Writing Assistant
 A powerful content generation system built with CrewAI that combines research, analysis, and writing capabilities to produce high-quality blog posts on any topic.
 
