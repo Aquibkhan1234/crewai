@@ -1,14 +1,6 @@
----
-title: {{CrewAI}}
-emoji: {{🐨}}
-colorFrom: {{blue}}
-colorTo: {{red}}
-sdk: {{streamlit}}
-sdk_version: {{1.42.0}}
-app_file: streamlit.py
-pinned: false
-license: apache-2.0
-short_description: refined crewai
+|title           | emoji | colorFrom | colorTo |    sdk    | sdk_version | app_file      |  pinned  | license     | short_description          |
+|----------------|-------|-----------|---------|-----------|-------------|---------------|----------|-------------|----------------------------|
+|crewai          |  🐨   | blue      | red     | streamlit | 1.42.0      | streamlit.py |  false    | apache-2.0  | refined crew               |
 
 
 AI Content Research & Writing Assistant
