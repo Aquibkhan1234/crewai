@@ -1,4 +1,4 @@
 crewai
 crewai-tools
 python-dotenv
-streamlit
+streamlit==1.37.1
